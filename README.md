@@ -1,5 +1,4 @@
            MY APP
-           # Harmoniq - Digital Canvas Website
 
 **Harmoniq** is a mental wellness platform designed to help users achieve clarity, balance, and inner peace. This repository contains the front-end code for the website, including a contact form that submits user messages to a Google Sheet via Google Apps Script.
 
